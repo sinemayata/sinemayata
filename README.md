@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sinem 
+- 👀 I’m interested in SQL and programming
+- 🌱 I’m currently learning SQL and fundamentals of programming
